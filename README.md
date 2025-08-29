@@ -29,4 +29,5 @@ I'm a junior developer with a solid foundation gained through a Bachelor's degre
 #### Skontaktuj się ze mną / Connect with me
 - **Email:** michal.herbich@gmail.com
 - **LinkedIn:** [Mój profil na LinkedIn](https://linkedin.com/in/michał-herbich-783a7237a)
-- **Email:** [Twój adres email]
+- **Portfolio:** [Zobacz moje Portfolio](https://foerch-dev-folio.netlify.app)
+- **GitHub:** [Mój profil na GitHub](https://github.com/FoerchByte)
